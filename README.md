@@ -1,5 +1,5 @@
 
-This repository contains the code to reproduce results in supplementary material for **COnstrainedLAMAML** (Constrained Language-adapted Model-Agnostic Meta-Learning).
+This repository contains the code to reproduce results in supplementary material for **ConstrainedLAMAML** (Constrained Language-adapted Model-Agnostic Meta-Learning).
 
 ## 1. Installation
 
